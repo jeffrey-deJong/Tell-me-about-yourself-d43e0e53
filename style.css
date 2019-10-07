@@ -1,0 +1,32 @@
+h1 {
+    color: red;
+}
+/* All <a> elements. */
+a {
+  color: red;
+}
+a {font-size: 1.5em;}
+
+body{
+	background-color:blue;
+}
+img{
+	width:500px;
+}
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+label{
+	display: block;
+	font:1rem 'Fira Sans',sans-serif; 
+}
+input,
+label{
+	margin: .4rem 0;
+}
